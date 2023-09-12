@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/meso-calc/static/css/main.402c7dae.css",
-    "main.js": "/meso-calc/static/js/main.abd3961d.js",
+    "main.js": "/meso-calc/static/js/main.9abefe35.js",
     "static/js/787.586b69ea.chunk.js": "/meso-calc/static/js/787.586b69ea.chunk.js",
     "static/media/logo.svg": "/meso-calc/static/media/logo.31d2eb317273fe808d08c76cf431e841.svg",
     "index.html": "/meso-calc/index.html",
     "main.402c7dae.css.map": "/meso-calc/static/css/main.402c7dae.css.map",
-    "main.abd3961d.js.map": "/meso-calc/static/js/main.abd3961d.js.map",
+    "main.9abefe35.js.map": "/meso-calc/static/js/main.9abefe35.js.map",
     "787.586b69ea.chunk.js.map": "/meso-calc/static/js/787.586b69ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.402c7dae.css",
-    "static/js/main.abd3961d.js"
+    "static/js/main.9abefe35.js"
   ]
 }
